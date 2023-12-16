@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 gachon 
 <!--
 **leten02/leten02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
