@@ -25,6 +25,8 @@ MCP와 토큰 경제까지 파고들어, 도구를 만드는 시야로 빠르게
 
 ## 🤖 지금 만드는 것
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1100&color=14C7A4&center=true&vCenter=true&width=620&height=50&lines=%24+whoami+%E2%86%92+Lee+Tae+Hyun;%24+cat+focus.txt+%E2%86%92+agents+%C2%B7+AI+products+%C2%B7+MCP;%24+.%2Fbuild+--idea+%E2%86%92+idea+%E2%86%92+agent+%E2%86%92+product" alt="terminal" />
+
 > AI 에이전트를 설계하고, AI를 제품에 녹이고, AI 도구 자체를 실측하며 파고듭니다.
 
 ```ts
