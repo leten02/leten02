@@ -64,9 +64,17 @@ const taehyun = {
 
 <div align="center">
 
-[![streak](https://github-readme-streak-stats.herokuapp.com/?user=leten02&hide_border=true&background=F6F4EE&ring=9B2C1E&fire=9B2C1E&currStreakLabel=1B1A17&sideLabels=1B1A17&dates=8A857A&currStreakNum=1B1A17&sideNums=1B1A17)](https://github.com/leten02)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leten02/leten02/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leten02/leten02/output/github-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/leten02/leten02/output/github-snake.svg" />
+</picture>
 
-![activity](https://github-readme-activity-graph.vercel.app/graph?username=leten02&bg_color=F6F4EE&color=1B1A17&line=9B2C1E&point=1B1A17&area=true&area_color=9B2C1E&hide_border=true&custom_title=Contribution%20Graph)
+<br/><br/>
+
+[![streak](https://github-readme-streak-stats.herokuapp.com/?user=leten02&hide_border=true&background=FFFFFF&ring=10C4A0&fire=FB7DAA&currStreakLabel=0D0F0F&sideLabels=0D0F0F&dates=9094A0&currStreakNum=0D0F0F&sideNums=0D0F0F)](https://github.com/leten02)
+
+![activity](https://github-readme-activity-graph.vercel.app/graph?username=leten02&bg_color=FFFFFF&color=0D0F0F&line=10C4A0&point=FB7DAA&area=true&area_color=D4F6EE&hide_border=true&custom_title=Contribution%20Graph)
 
 </div>
 
