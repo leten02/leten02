@@ -43,33 +43,68 @@ const now = {
 
 ## 📂 대표 작업
 
-#### 🧠 [The AI [X] Pipeline](https://github.com/leten02/the-ai-x-pipeline) &nbsp;<kbd>자율 에이전트</kbd>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+🧠 <kbd> 자율 에이전트 </kbd>
+
+#### [The AI [X] Pipeline](https://github.com/leten02/the-ai-x-pipeline)
+
 Claude + NotebookLM 자율 멀티 에이전트 — 문제 발굴 → Red/Blue 토론 → 사업 소개서까지 **사람 개입 없이** 자동화.
-> `Python` `Claude API` `NotebookLM` `Multi-Agent`
 
-#### 🔬 [GCS-PULSE — CLI vs MCP](https://github.com/leten02/gcs-pulse-cli-vs-mcp) &nbsp;<kbd>도구 실측</kbd>
-같은 도구를 CLI/MCP 두 방식으로 연결해 **토큰·UX를 실측 비교** — 툴 스키마 오버헤드를 데이터로 규명.
-> `Python` `MCP` `Claude Code` `Benchmark`
+`Python` `Claude API` `NotebookLM` `Multi-Agent`
 
-#### 🔄 [Notion School Sync](https://github.com/leten02/notion-school-sync) &nbsp;<kbd>도구</kbd> &nbsp;[`🟢 live`](https://notion-school-sync.vercel.app/)
+</td>
+<td width="50%" valign="top">
+
+🔬 <kbd> 도구 실측 </kbd>
+
+#### [GCS-PULSE — CLI vs MCP](https://github.com/leten02/gcs-pulse-cli-vs-mcp)
+
+같은 도구를 CLI/MCP 두 방식으로 연결해 **토큰·UX 실측 비교** — 툴 스키마 오버헤드를 데이터로 규명.
+
+`Python` `MCP` `Claude Code` `Benchmark`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+🔄 <kbd> 도구 </kbd> &nbsp; [`🟢 live`](https://notion-school-sync.vercel.app/)
+
+#### [Notion School Sync](https://github.com/leten02/notion-school-sync)
+
 노션 일기를 AI가 정형화해 자동 제출 + Gemini 주간/월간 감독 리포트. **배포 운영 중.**
-> `Python` `Notion API` `Gemini` `Vercel`
 
-#### ♻️ [숨돌이 (SumDori)](https://github.com/leten02/sumdori) &nbsp;<kbd>제품</kbd>
-공기청정기 폐필터 수거·재활용 플랫폼 — 교체 알림부터 수거·에코포인트·운영 백오피스까지 **풀스택**.
-> `TypeScript` `Next.js` `백오피스`
+`Python` `Notion API` `Gemini` `Vercel`
+
+</td>
+<td width="50%" valign="top">
+
+♻️ <kbd> 제품 </kbd>
+
+#### [숨돌이 (SumDori)](https://github.com/leten02/sumdori)
+
+공기청정기 폐필터 수거·재활용 — 교체 알림·수거·에코포인트·운영 백오피스까지 **풀스택**.
+
+`TypeScript` `Next.js` `백오피스`
+
+</td>
+</tr>
+</table>
 
 <sub>🔒 비공개 · **AI Work Test** — AI 협업 사고력 6축 채점 + 프롬프트 인젝션 방어 · **D-Return** — 폐업 기업 데이터 비식별화 AI 학습데이터 파이프라인</sub>
 
 ## 🛠️ Stack
 
-|  |  |
-|---|---|
-| **AI / LLM** | ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-1F2127?style=flat&logo=modelcontextprotocol&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white) |
-| **Language** | ![Python](https://img.shields.io/badge/Python-3766AB?style=flat&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) |
-| **Web** | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white) |
-| **Backend** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) |
-| **Infra** | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/Actions-2088FF?style=flat&logo=githubactions&logoColor=white) |
+**AI / LLM**
+
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-1F2127?style=for-the-badge&logo=modelcontextprotocol&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+
+**Languages & Tools**
+
+[![icons](https://skillicons.dev/icons?i=py,ts,nextjs,react,fastapi,tailwind,postgres,vercel,githubactions&perline=9)](https://github.com/leten02)
 
 ## 📈 Activity
 
