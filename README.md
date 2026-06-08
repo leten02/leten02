@@ -9,6 +9,9 @@
 AI가 스스로 문제를 찾고 만들게 설계하고, LLM을 실제 사용자 가치로 바꿉니다.<br/>
 MCP와 토큰 경제까지 파고들어, 도구를 만드는 시야로 빠르게 출시합니다.
 
+<a href="https://portfolio-beta-blue-41.vercel.app">
+  <img src="https://img.shields.io/badge/🔗_Portfolio-1F2127?style=for-the-badge&logoColor=white" alt="Portfolio"/>
+</a>
 <a href="mailto:th200202@gmail.com">
   <img src="https://img.shields.io/badge/Email-14C7A4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
