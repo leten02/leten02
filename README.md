@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=9B2C1E&center=true&vCenter=true&width=640&lines=AI+Agent+Builder;Idea+%E2%86%92+Product%2C+in+days;Autonomous+Agents+%C2%B7+MCP-deep+%C2%B7+Ships+Fast" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=2800&pause=900&color=14C7A4&center=true&vCenter=true&width=640&lines=AI+Agent+Builder;Idea+%E2%86%92+Product%2C+in+days;Autonomous+Agents+%C2%B7+MCP-deep+%C2%B7+Ships+Fast" alt="typing" />
 
 # 이태현 · Lee Tae Hyun
 
@@ -10,10 +10,13 @@ AI가 스스로 문제를 찾고 만들게 설계하고, LLM을 실제 사용자
 MCP와 토큰 경제까지 파고들어, 도구를 만드는 시야로 빠르게 출시합니다.
 
 <a href="mailto:th200202@gmail.com">
-  <img src="https://img.shields.io/badge/Email-1b1a17?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-14C7A4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 <a href="https://www.instagram.com/le_ten02/">
-  <img src="https://img.shields.io/badge/Instagram-1b1a17?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  <img src="https://img.shields.io/badge/Instagram-FB8FB6?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+<a href="https://github.com/leten02">
+  <img src="https://img.shields.io/badge/GitHub-1F2127?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 </div>
@@ -47,18 +50,18 @@ const taehyun = {
 
 ## 🛠️ Stack
 
-![Python](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3766AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 <br/>
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-1b1a17?style=flat-square&logo=modelcontextprotocol&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-1b1a17?style=flat&logo=modelcontextprotocol&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
 ## 📈 Activity
 
@@ -72,9 +75,9 @@ const taehyun = {
 
 <br/><br/>
 
-[![streak](https://github-readme-streak-stats.herokuapp.com/?user=leten02&hide_border=true&background=FFFFFF&ring=10C4A0&fire=FB7DAA&currStreakLabel=0D0F0F&sideLabels=0D0F0F&dates=9094A0&currStreakNum=0D0F0F&sideNums=0D0F0F)](https://github.com/leten02)
+[![streak](https://github-readme-streak-stats.herokuapp.com/?user=leten02&hide_border=true&background=FFFFFF&ring=14C7A4&fire=FB8FB6&currStreakLabel=0D0F0F&sideLabels=0D0F0F&dates=9094A0&currStreakNum=0D0F0F&sideNums=0D0F0F)](https://github.com/leten02)
 
-![activity](https://github-readme-activity-graph.vercel.app/graph?username=leten02&bg_color=FFFFFF&color=0D0F0F&line=10C4A0&point=FB7DAA&area=true&area_color=D4F6EE&hide_border=true&custom_title=Contribution%20Graph)
+![activity](https://github-readme-activity-graph.vercel.app/graph?username=leten02&bg_color=FFFFFF&color=0D0F0F&line=14C7A4&point=FB8FB6&area=true&area_color=D4F6EE&hide_border=true&custom_title=Contribution%20Graph)
 
 </div>
 
