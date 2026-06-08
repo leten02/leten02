@@ -1,41 +1,59 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi!%20I'm%20TaeHyun%20Lee%20&fontSize=90)
+<div align="center">
 
-<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
+# 이태현 · Lee Tae Hyun
 
-<div align="left">
-  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leten02&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+**아이디어를 AI 에이전트로 제품화하는 빌더**
+
+AI가 스스로 문제를 찾고 만들게 설계하고, LLM을 실제 사용자 가치로 바꿉니다.<br/>
+MCP와 토큰 경제까지 파고들어, 도구를 만드는 시야로 빠르게 출시합니다.
+
+<a href="mailto:th200202@gmail.com">
+  <img src="https://img.shields.io/badge/Email-1b1a17?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://www.instagram.com/le_ten02/">
+  <img src="https://img.shields.io/badge/Instagram-1b1a17?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+
 </div>
 
-<h3 align="center">📚 Tech Stack 📚</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
-  <br>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/></a>&nbsp 
-  <br>
-  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
-</p>
+---
 
-<h3 align="center">🏀 Follow Me 🏀</h3>
-<p align="center">
-  <a href="https://www.instagram.com/le_ten02/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/le_ten02"/></a>&nbsp
-  <a href="mailto:th200202@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
-</p>
-<!--
-**leten02/leten02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🤖 지금 만드는 것
 
-Here are some ideas to get you started:
+AI 에이전트를 설계하고, AI를 제품에 녹이고, AI 도구 자체를 실측하며 파고듭니다.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| | 분야 |
+|---|---|
+| **자율 에이전트** — AI가 스스로 문제 발굴 → 토론 → 결과물 생성 | Agent |
+| **AI 제품화** — LLM을 채점·데이터·보안까지 프로덕션 수준으로 | Product |
+| **도구 깊이** — MCP·토큰 경제·에이전트 워크플로우 실측 | Tooling |
+| **빠른 실행** — 아이디어를 며칠 안에 동작하는 제품으로 | Ship |
+
+### 📂 대표 작업
+
+- **[The AI [X] Pipeline](https://github.com/leten02/the-ai-x-pipeline)** — Claude + NotebookLM 자율 멀티 에이전트. 문제 발굴 → Red/Blue 토론 → 사업 소개서까지 사람 개입 없이 자동화
+- **[GCS-PULSE: CLI vs MCP](https://github.com/leten02/gcs-pulse-cli-vs-mcp)** — 같은 도구를 CLI/MCP 두 방식으로 연결해 토큰 사용량·UX를 실측 비교. 툴 스키마 오버헤드 문제를 데이터로 규명
+- **[Notion School Sync](https://github.com/leten02/notion-school-sync)** — 노션 일기를 AI가 정형화해 자동 제출 + Gemini 주간/월간 감독 리포트. 배포 운영 중 ([live](https://notion-school-sync.vercel.app/))
+- **[숨돌이 (SumDori)](https://github.com/leten02/sumdori)** — 공기청정기 폐필터 수거·재활용 플랫폼. 사용자 앱부터 운영 백오피스까지 풀스택
+
+> 비공개: **AI Work Test** (AI 협업 사고력 6축 채점 + 프롬프트 인젝션 방어), **D-Return** (폐업 기업 데이터 비식별화 AI 학습데이터 파이프라인)
+
+### 🛠️ Stack
+
+![Python](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+<br/>
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-1b1a17?style=flat-square&logo=modelcontextprotocol&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+<div align="center">
+<br/>
+<sub>AI 에이전트 · 빠른 프로토타입 · AI를 제품에 녹이는 일이라면 언제든 — <a href="mailto:th200202@gmail.com">th200202@gmail.com</a></sub>
+</div>
